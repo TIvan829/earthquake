@@ -49,3 +49,5 @@
 ***
 > cFSovo：本 md 部分內容改進
 > 因為突然發現有專案的 readme 有一個小小的格式問題就進來修改，結果順手大部分就修了一遍w
+
+**感謝[FlySky](https://www.cfsovo.tk/)大佬花時間幫我修改README.md**
