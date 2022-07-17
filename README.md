@@ -17,19 +17,6 @@
 
 ![圖片](https://imgur.com/gjfDCDZ.png)<br>
 ***
-<h2 align="center">機器人環境建置（Python）</h2>
-
-1. 到[官方網站](https://python.org)下載最新的 Python
-2. 下載後開啟，**左下角的`Add Python *.**.** to PATH`一定要打開**
-> ***很重要，沒開的話接下來可能會有問題***
-
-![image](https://user-images.githubusercontent.com/72594971/178756663-7940d085-96a1-40f4-88c3-2c668e20409f.png)
-3. 安裝必要套件
-   1. 打開終端機
-   2. 輸入```pip install discord.py requests```
-![image](https://user-images.githubusercontent.com/72594971/178758823-8c69d82c-a613-423e-ab17-03d78448791c.png)
-
-***
 <h2 align="center">設定機器人</h2>
 
 我們打開 config.json 把裡面的資訊填好<br>
@@ -37,9 +24,30 @@
 然後運行Bot,如果有測試訊息,你就成功了<br>
 ![圖片](https://i.imgur.com/DisIlHH.png)<br>
 ***
+
+<h2 align="center">機器人環境建置&啟動</h2>
+
+1. 到[官方網站](https://python.org)下載最新的 Python
+2. 下載後開啟，**左下角的`Add Python *.**.** to PATH`一定要打開**
+> ***很重要，沒開的話接下來可能會有問題***
+
+![image](https://user-images.githubusercontent.com/72594971/178756663-7940d085-96a1-40f4-88c3-2c668e20409f.png)
+
+3. 以下步驟分 **Windows 系統** 和 **非 Windows 系統**
+   1. Windows
+      1. 打開 `windows_run.bat`
+      2. 等待自動安裝和啟動機器人
+      3. 完成！
+   2. 非 Windows 系統
+      1. 打開終端機
+      2. 輸入 `pip install discord.py requests`
+      3. 接著輸入 `python ./bot.py`
+      4. 完成！
+***
+***
 <h2 align="center">作者</h2>
 <p align="center">早安，我是機車<br>
-我不強求你們在Bot中標什麼`Make by 機車`，反正你們也不會聽拉哈<br>
+我不強求你們在 Bot 中標什麼`Make by 機車`，反正你們也不會聽拉哈<br>
 但還是希望你們幫我宣傳下我的資訊（DC群之類的哈）<br>
 <s>我發現打最久的不是code，是這該死的 MD 檔和 bot.py 裡的備註</s><br>
 如果有沒說明到，或說錯的，歡迎來我群詢問或糾正<br>
@@ -47,7 +55,4 @@
 <p align="center"><a href=""https://discord.gg/m9Z33wtHtK>Discord 群</a> | <a href="https://github.com/TIvan829">GitHub</a> | <a href="https://www.youtube.com/channel/UC-vgoLb7laDNvgH7w62Jxvg">YouTube</a></p>
 
 ***
-> cFSovo：本 md 部分內容改進
-> 因為突然發現有專案的 readme 有一個小小的格式問題就進來修改，結果順手大部分就修了一遍w
-
-**感謝[FlySky](https://www.cfsovo.tk/)大佬花時間幫我修改README.md**
+**感謝 [FlySkyovo](https://www.cfsovo.tk/) 大佬花時間幫我修改README.md**
