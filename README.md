@@ -40,7 +40,7 @@
       3. 完成！
    2. 非 Windows 系統
       1. 打開終端機
-      2. 輸入 `pip install discord.py requests`
+      2. 輸入 `pip install pycord requests`
       3. 接著輸入 `python ./bot.py`
       4. 完成！
 
