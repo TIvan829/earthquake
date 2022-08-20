@@ -1,4 +1,3 @@
-from tkinter import ON
 import discord,asyncio,requests,json #導入模組
 from discord.ext import commands
 
