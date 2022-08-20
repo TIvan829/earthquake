@@ -40,19 +40,20 @@
       3. 完成！
    2. 非 Windows 系統
       1. 打開終端機
-      2. 輸入 `pip install discord.py requests`
+      2. 輸入 `pip install pycord requests`
       3. 接著輸入 `python ./bot.py`
       4. 完成！
-***
-***
-<h2 align="center">作者</h2>
-<p align="center">早安，我是機車<br>
-我不強求你們在 Bot 中標什麼`Make by 機車`，反正你們也不會聽拉哈<br>
-但還是希望你們幫我宣傳下我的資訊(Discord guild)<br>
-<s>我發現打最久的不是code，是這該死的 MD 檔和 bot.py 裡的備註</s><br>
-如果有沒說明到，或說錯的，歡迎來我群詢問或糾正<br>
-以下是我的資訊。<br></p>
-<p align="center"><a href=""https://discord.gg/m9Z33wtHtK>Discord 群</a> | <a href="https://github.com/TIvan829">GitHub</a> | <a href="https://www.youtube.com/channel/UC-vgoLb7laDNvgH7w62Jxvg">YouTube</a></p>
 
 ***
-**感謝 [FlySkyovo](https://www.cfsovo.tk/) 大佬花時間幫我修改README.md**
+
+<h2 align="center">作者</h2>
+<p align="center">早安，我是機車<br>
+我不強求你們在 Bot 中標什麼 Made by 機車 ，反正你們也不會聽拉哈<br>
+但還是希望你們幫我宣傳下我的資訊（DC群之類的哈）<br>
+<s>我發現打最久的不是code，是這該死的 md 檔和 bot.py 裡的備註</s><br>
+如果有沒說明到，或說錯的，歡迎來我群詢問或糾正<br>
+以下是我的資訊</p><br>
+<p align="center"><a href="https://discord.gg/m9Z33wtHtK">Discord 群</a> | <a href="https://github.com/TIvan829">GitHub</a> | <a href="https://www.youtube.com/channel/UC-vgoLb7laDNvgH7w62Jxvg">YouTube</a></p>
+
+***
+**感謝 [cFSovo](https://www.cfsovo.tk/) 大佬花時間幫我修改README.md**
