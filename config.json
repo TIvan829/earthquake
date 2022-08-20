@@ -1,6 +1,6 @@
 {
     "prefix":"你要的前綴",
-    "readymsg":"on/off 是否在啟動時發送測試訊息",
+    "readymsg":"true/false 是否在啟動時發送測試訊息",
     "url":"這裡填你的API網址,請讀README.md",
     "token":"你機器人的Token"
 }
