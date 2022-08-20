@@ -51,7 +51,7 @@
 但還是希望你們幫我宣傳下我的資訊（DC群之類的哈）<br>
 <s>我發現打最久的不是code，是這該死的 MD 檔和 bot.py 裡的備註</s><br>
 如果有沒說明到，或說錯的，歡迎來我群詢問或糾正<br>
-以下是我的資訊，拜託幫我宣傳一下 DC 群哈<br></p>
+以下是我的資訊</p><br>
 <p align="center"><a href="https://discord.gg/m9Z33wtHtK">Discord 群</a> | <a href="https://github.com/TIvan829">GitHub</a> | <a href="https://www.youtube.com/channel/UC-vgoLb7laDNvgH7w62Jxvg">YouTube</a></p>
 
 ***
